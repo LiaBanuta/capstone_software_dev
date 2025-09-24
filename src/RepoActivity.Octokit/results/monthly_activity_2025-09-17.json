@@ -1,0 +1,107 @@
+{
+  "repository": "microsoft/vscode",
+  "window": {
+    "from": "2024-09-17T12:47:32.0231654\u002B00:00",
+    "to": "2025-09-17T12:47:32.0231654\u002B00:00"
+  },
+  "totals": {
+    "commits": 13446,
+    "pull_requests": 11422,
+    "issues": 26587,
+    "actions_runs": 98629
+  },
+  "monthly_data": [
+    {
+      "month": "2024-09",
+      "commits": 1171,
+      "pull_requests": 947,
+      "issues": 1684,
+      "actions_runs": 6884
+    },
+    {
+      "month": "2024-10",
+      "commits": 938,
+      "pull_requests": 850,
+      "issues": 1562,
+      "actions_runs": 6157
+    },
+    {
+      "month": "2024-11",
+      "commits": 1005,
+      "pull_requests": 758,
+      "issues": 1335,
+      "actions_runs": 6978
+    },
+    {
+      "month": "2024-12",
+      "commits": 731,
+      "pull_requests": 734,
+      "issues": 1278,
+      "actions_runs": 4763
+    },
+    {
+      "month": "2025-01",
+      "commits": 844,
+      "pull_requests": 779,
+      "issues": 1374,
+      "actions_runs": 6466
+    },
+    {
+      "month": "2025-02",
+      "commits": 1277,
+      "pull_requests": 1025,
+      "issues": 1835,
+      "actions_runs": 8070
+    },
+    {
+      "month": "2025-03",
+      "commits": 1278,
+      "pull_requests": 1065,
+      "issues": 1660,
+      "actions_runs": 8274
+    },
+    {
+      "month": "2025-04",
+      "commits": 1189,
+      "pull_requests": 888,
+      "issues": 1580,
+      "actions_runs": 6902
+    },
+    {
+      "month": "2025-05",
+      "commits": 919,
+      "pull_requests": 762,
+      "issues": 1367,
+      "actions_runs": 6023
+    },
+    {
+      "month": "2025-06",
+      "commits": 869,
+      "pull_requests": 895,
+      "issues": 1937,
+      "actions_runs": 7371
+    },
+    {
+      "month": "2025-07",
+      "commits": 1344,
+      "pull_requests": 1106,
+      "issues": 4743,
+      "actions_runs": 11599
+    },
+    {
+      "month": "2025-08",
+      "commits": 1378,
+      "pull_requests": 1106,
+      "issues": 3968,
+      "actions_runs": 12913
+    },
+    {
+      "month": "2025-09",
+      "commits": 503,
+      "pull_requests": 507,
+      "issues": 2264,
+      "actions_runs": 6229
+    }
+  ],
+  "generated_at_utc": "2025-09-17T12:50:15.1715522Z"
+}
