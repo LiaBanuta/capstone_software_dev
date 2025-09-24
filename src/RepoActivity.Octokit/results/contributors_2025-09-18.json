@@ -1,0 +1,102 @@
+{
+  "repository": "microsoft/vscode",
+  "analysis_date": "2025-09-18T08:55:54.3091267Z",
+  "total_contributors": 3044,
+  "top_10_contributors": [
+    {
+      "rank": 1,
+      "username": "bpasero",
+      "name": null,
+      "commits": 13778,
+      "pull_requests": 76,
+      "issues": 9,
+      "total_activity": 13863
+    },
+    {
+      "rank": 2,
+      "username": "jrieken",
+      "name": null,
+      "commits": 12259,
+      "pull_requests": 0,
+      "issues": 0,
+      "total_activity": 12259
+    },
+    {
+      "rank": 3,
+      "username": "Tyriar",
+      "name": null,
+      "commits": 11636,
+      "pull_requests": 41,
+      "issues": 15,
+      "total_activity": 11692
+    },
+    {
+      "rank": 4,
+      "username": "mjbvz",
+      "name": null,
+      "commits": 9120,
+      "pull_requests": 53,
+      "issues": 3,
+      "total_activity": 9176
+    },
+    {
+      "rank": 5,
+      "username": "joaomoreno",
+      "name": null,
+      "commits": 8706,
+      "pull_requests": 10,
+      "issues": 0,
+      "total_activity": 8716
+    },
+    {
+      "rank": 6,
+      "username": "sandy081",
+      "name": null,
+      "commits": 8328,
+      "pull_requests": 49,
+      "issues": 3,
+      "total_activity": 8380
+    },
+    {
+      "rank": 7,
+      "username": "alexdima",
+      "name": null,
+      "commits": 7628,
+      "pull_requests": 8,
+      "issues": 0,
+      "total_activity": 7636
+    },
+    {
+      "rank": 8,
+      "username": "isidorn",
+      "name": null,
+      "commits": 6078,
+      "pull_requests": 1,
+      "issues": 0,
+      "total_activity": 6079
+    },
+    {
+      "rank": 9,
+      "username": "roblourens",
+      "name": null,
+      "commits": 5332,
+      "pull_requests": 33,
+      "issues": 7,
+      "total_activity": 5372
+    },
+    {
+      "rank": 10,
+      "username": "aeschli",
+      "name": null,
+      "commits": 4894,
+      "pull_requests": 14,
+      "issues": 0,
+      "total_activity": 4908
+    }
+  ],
+  "summary": {
+    "total_commits": 133057,
+    "total_prs": 1000,
+    "total_issues": 1000
+  }
+}
