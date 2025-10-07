@@ -1,0 +1,196 @@
+{
+  "repository": "microsoft/vscode",
+  "analysis_date": "2025-10-07T08:39:37.7984565Z",
+  "bot_detection": {
+    "total_contributors": 2868,
+    "identified_bots": 44,
+    "bot_percentage": 0.015341701534170154,
+    "human_contributors": 2824,
+    "bot_commits": 363,
+    "bot_commit_percentage": 0.0027145869789563424,
+    "top_bots": [
+      {
+        "username": "dependabot[bot]",
+        "commits": 163,
+        "indicators": [
+          "Username contains \u0027bot\u0027",
+          "Username contains \u0027Bot\u0027",
+          "Username contains \u0027[bot]\u0027",
+          "Username contains \u0027BOT\u0027",
+          "Username contains \u0027dependabot\u0027"
+        ]
+      },
+      {
+        "username": "Krzysztof-Cieslak",
+        "commits": 60,
+        "indicators": [
+          "Username contains \u0027ci\u0027",
+          "Username contains \u0027CI\u0027",
+          "Username contains \u0027-ci\u0027"
+        ]
+      },
+      {
+        "username": "SoloJiang",
+        "commits": 34,
+        "indicators": [
+          "High message similarity: 100% identical",
+          "Automation keywords: 100% of messages"
+        ]
+      },
+      {
+        "username": "marvinruder",
+        "commits": 14,
+        "indicators": [
+          "High message similarity: 93% identical",
+          "Automation keywords: 93% of messages"
+        ]
+      },
+      {
+        "username": "eltociear",
+        "commits": 12,
+        "indicators": [
+          "Username contains \u0027ci\u0027",
+          "Username contains \u0027CI\u0027"
+        ]
+      },
+      {
+        "username": "NriotHrreion",
+        "commits": 10,
+        "indicators": [
+          "Automation keywords: 80% of messages"
+        ]
+      },
+      {
+        "username": "devinvalenciano",
+        "commits": 9,
+        "indicators": [
+          "Username contains \u0027ci\u0027",
+          "Username contains \u0027CI\u0027"
+        ]
+      },
+      {
+        "username": "whistlegraph",
+        "commits": 8,
+        "indicators": [
+          "High message similarity: 88% identical",
+          "Automation keywords: 88% of messages"
+        ]
+      },
+      {
+        "username": "matthew-godin",
+        "commits": 6,
+        "indicators": [
+          "High message similarity: 83% identical",
+          "Automation keywords: 83% of messages",
+          "All messages very short (\u003C 30 chars)"
+        ]
+      },
+      {
+        "username": "mattkwiecien",
+        "commits": 6,
+        "indicators": [
+          "Username contains \u0027ci\u0027",
+          "Username contains \u0027CI\u0027"
+        ]
+      }
+    ]
+  },
+  "top_10_human_contributors": [
+    {
+      "rank": 1,
+      "username": "bpasero",
+      "name": null,
+      "commits": 13830,
+      "pull_requests": 82,
+      "issues": 19,
+      "total_activity": 13931
+    },
+    {
+      "rank": 2,
+      "username": "jrieken",
+      "name": null,
+      "commits": 12269,
+      "pull_requests": 4,
+      "issues": 4,
+      "total_activity": 12277
+    },
+    {
+      "rank": 3,
+      "username": "Tyriar",
+      "name": null,
+      "commits": 11682,
+      "pull_requests": 26,
+      "issues": 10,
+      "total_activity": 11718
+    },
+    {
+      "rank": 4,
+      "username": "mjbvz",
+      "name": null,
+      "commits": 9209,
+      "pull_requests": 58,
+      "issues": 15,
+      "total_activity": 9282
+    },
+    {
+      "rank": 5,
+      "username": "joaomoreno",
+      "name": null,
+      "commits": 8710,
+      "pull_requests": 12,
+      "issues": 11,
+      "total_activity": 8733
+    },
+    {
+      "rank": 6,
+      "username": "sandy081",
+      "name": null,
+      "commits": 8347,
+      "pull_requests": 45,
+      "issues": 8,
+      "total_activity": 8400
+    },
+    {
+      "rank": 7,
+      "username": "alexdima",
+      "name": null,
+      "commits": 7639,
+      "pull_requests": 8,
+      "issues": 5,
+      "total_activity": 7652
+    },
+    {
+      "rank": 8,
+      "username": "isidorn",
+      "name": null,
+      "commits": 6078,
+      "pull_requests": 1,
+      "issues": 8,
+      "total_activity": 6087
+    },
+    {
+      "rank": 9,
+      "username": "roblourens",
+      "name": null,
+      "commits": 5344,
+      "pull_requests": 26,
+      "issues": 14,
+      "total_activity": 5384
+    },
+    {
+      "rank": 10,
+      "username": "aeschli",
+      "name": null,
+      "commits": 4925,
+      "pull_requests": 26,
+      "issues": 3,
+      "total_activity": 4954
+    }
+  ],
+  "summary": {
+    "total_commits_all": 133722,
+    "total_commits_human": 133359,
+    "total_prs": 993,
+    "total_issues": 980
+  }
+}

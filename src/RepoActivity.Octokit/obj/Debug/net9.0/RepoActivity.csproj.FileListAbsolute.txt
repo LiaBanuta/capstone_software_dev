@@ -56,3 +56,4 @@ C:\Users\liaba\Documents\repositories\school_repositories\capstone_software_dev\
 C:\Users\liaba\Documents\repositories\school_repositories\capstone_software_dev\src\RepoActivity.Octokit\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\liaba\Documents\repositories\school_repositories\capstone_software_dev\src\RepoActivity.Octokit\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\Users\liaba\Documents\repositories\school_repositories\capstone_software_dev\src\RepoActivity.Octokit\bin\Debug\net9.0\Sprache.dll
+C:\Users\liaba\Documents\repositories\school_repositories\capstone_software_dev\src\RepoActivity.Octokit\obj\Debug\net9.0\RepoActivity.sourcelink.json
