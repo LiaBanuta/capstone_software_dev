@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepoActivity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a923a66cd059499a1f220721a73f1e371701bee1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+673f723e82421f5c6eecb7a101140c3774844086")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepoActivity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepoActivity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
